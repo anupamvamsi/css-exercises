@@ -1,0 +1,27 @@
+.container p {
+  background-color: yellow;
+  color: red;
+  font-size: 20px;
+  text-align: center;
+}
+
+/* div .text {
+  background-color: blue;
+  color: red;
+  font-size: 20px;
+  text-align: center;
+} */
+
+/* .container .text {
+  background-color: purple;
+  color: red;
+  font-size: 20px;
+  text-align: center;
+} */
+
+/* div p {
+  background-color: black;
+  color: red;
+  font-size: 20px;
+  text-align: center;
+} */

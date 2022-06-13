@@ -1,0 +1,19 @@
+.common-class, .unique-class {
+  background-color: rgb(204, 132, 132);
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.common-class.unique-class {
+  font-size: 24px;
+}
+
+#unique1 {
+  color: #0909bd;
+  font-size: 36px;
+}
+
+#unique2 {
+  background-color: hsl(120, 96%, 73%);
+  font-size: 24px;
+  font-weight: bold;
+}
